@@ -6,13 +6,12 @@ contract tokenTransfer {
     uint256 public withDrawlDate ;
     address payable public owner;
     event withDrawl (uint256 amount , uint256 when );
-    constructor(uint235 _withDrawlDate) public {
+    constructor(uint256 _withDrawlDate)  {
         require(block.timestamp < _withDrawlDate, "With Drawl date must be in future");
         withDrawlDate = _withDrawlDate;
         owner = payable(msg.sender);
     }
-
-function withDrawl() payable public{
+function withDraw() payable public{
     require (block.timestamp < withDrawlDate, "You can not with draw it now");
     require(msg.sender == owner,"Only owner can with draw");
     emit withDrawl(address(this).balance , block.timestamp);
