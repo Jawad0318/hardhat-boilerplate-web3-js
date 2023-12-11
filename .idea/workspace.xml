@@ -7,6 +7,8 @@
     <list default="true" id="770390f1-fb2f-4cb7-babd-e1d65b38c327" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.husky/commit-msg" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/commit-msg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.lintstagedrc" beforeDir="false" afterPath="$PROJECT_DIR$/.lintstagedrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +107,7 @@
       <workItem from="1701946984693" duration="490000" />
       <workItem from="1701947575024" duration="2233000" />
       <workItem from="1701951465022" duration="3597000" />
-      <workItem from="1702151375416" duration="3080000" />
+      <workItem from="1702151375416" duration="3261000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,6 @@
 {
   "name": "hardhat-boilerpalte-web3",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1"
   },
