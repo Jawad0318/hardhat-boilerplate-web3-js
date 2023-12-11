@@ -51,7 +51,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Mocha.Lock">
+  <component name="RunManager" selected="npm.prepare">
     <configuration name="prepare" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -79,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Mocha.Lock" />
         <item itemvalue="npm.prepare" />
+        <item itemvalue="Mocha.Lock" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,7 @@
       <workItem from="1701946984693" duration="490000" />
       <workItem from="1701947575024" duration="2233000" />
       <workItem from="1701951465022" duration="3597000" />
-      <workItem from="1702151375416" duration="891000" />
+      <workItem from="1702151375416" duration="1086000" />
     </task>
     <servers />
   </component>
