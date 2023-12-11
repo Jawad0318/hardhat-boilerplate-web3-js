@@ -4,7 +4,6 @@
     "dotenv": "^16.3.1"
   },
   "scripts": {
-  "scripts": {
     "prepare": "husky install"
   },
   "devDependencies": {
