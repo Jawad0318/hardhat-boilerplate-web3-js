@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="770390f1-fb2f-4cb7-babd-e1d65b38c327" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.solhint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/Lock.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/Lock.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +107,8 @@
       <workItem from="1701937878444" duration="3702000" />
       <workItem from="1701946984693" duration="490000" />
       <workItem from="1701947575024" duration="2233000" />
-      <workItem from="1701951465022" duration="2843000" />
+      <workItem from="1701951465022" duration="3597000" />
+      <workItem from="1702151375416" duration="754000" />
     </task>
     <servers />
   </component>
