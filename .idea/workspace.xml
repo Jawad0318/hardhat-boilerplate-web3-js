@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="770390f1-fb2f-4cb7-babd-e1d65b38c327" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/fundTransfer.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/fundTransfer.sol" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Lock.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/fundTransfer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fundTransfer.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/Lock.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs.mocha.mocha_node_package_dir": "",
@@ -111,7 +108,7 @@
       <workItem from="1701946984693" duration="490000" />
       <workItem from="1701947575024" duration="2233000" />
       <workItem from="1701951465022" duration="3597000" />
-      <workItem from="1702151375416" duration="6389000" />
+      <workItem from="1702151375416" duration="7086000" />
     </task>
     <servers />
   </component>

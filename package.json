@@ -5,10 +5,7 @@
     "dotenv": "^16.3.1"
   },
   "scripts": {
-    "prepare": "husky install",
-    "postinstall": "husky install",
-    "prepack": "pinst --disable",
-    "postpack": "pinst --enable"
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
